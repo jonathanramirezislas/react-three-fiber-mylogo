@@ -1,7 +1,7 @@
-# infinite-scrolling for proyects
+# react-three-fiber-mylogo
     
 
-![ininite-scrolling](https://res.cloudinary.com/djuqxjkh3/image/upload/v1614122231/infinite%20scrolling/chrome-capture_giebbi.gif)
+![react-three-fiber](https://res.cloudinary.com/djuqxjkh3/image/upload/v1614203944/mylogo3d/20210224_153934_mnswad.gif)
 
 infinite scrolling code to implement in other proyects  
 
@@ -14,11 +14,11 @@ infinite scrolling code to implement in other proyects
 ## 🛠 Installation
 1. Clone this project.
 ```bash
-  gh repo clone jonathanramirezislas/infinite-scrolling
+  gh repo clone jonathanramirezislas/react-three-fiber
 ```
 2. Change of directory to the root of the project.
 ```bash
-  cd infinite-scrolling
+  cd react-three-fiber
 ```
 3. Install the dependencies.
 ```bash
@@ -33,6 +33,9 @@ infinite scrolling code to implement in other proyects
 - [React](https://es.reactjs.org) 
 - [webpack](https://webpack.js.org/)_(Development)_
 - [babel/core](https://www.npmjs.com/package/@babel/core)_(Development)_
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+- [threejs](https://threejs.org/)
+- [drei](https://www.npmjs.com/package/drei)
 
 
 ## 🚀 Deploy
@@ -41,9 +44,6 @@ infinite scrolling code to implement in other proyects
   npm build
 ```
 
-## 🗄️ Backend Implementations
-
-- [openlibrary](hhttp://openlibrary.org/search.json)
 
 
 ## Authors
@@ -56,4 +56,4 @@ The MIT License (MIT)
 
 ## Contributing
 
-You're free to contribute to this project by submitting [issues](https://github.com/jonathanramirezislas/infinite-scrolling/issues) and/or [pull requests](https://github.com/jonathanramirezislas/infinite-scrolling/pulls).
+You're free to contribute to this project by submitting [issues](https://github.com/jonathanramirezislas/react-three-fiber/issues) and/or [pull requests](https://github.com/jonathanramirezislas/react-three-fiber/pulls).
