@@ -46,13 +46,18 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
+    "@react-three/drei": "^3.8.6",
     "@testing-library/react": "^11.2.3",
     "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "dotenv-webpack": "^6.0.0",
+    "drei": "^2.2.21",
     "html-webpack-plugin": "^4.5.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-router-dom": "^5.2.0"
+    "react-router-dom": "^5.2.0",
+    "react-spring": "^8.0.27",
+    "react-three-fiber": "^5.3.19",
+    "three": "^0.126.0"
   }
 }
